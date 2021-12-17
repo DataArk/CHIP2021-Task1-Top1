@@ -26,7 +26,7 @@ CPU 核数16 核
 ### 运行python环境
 ```
 Python 3.8.10
-pip install ark-nlp
+pip install ark-nlp==0.0.2
 pip install pandas
 pip install scikit-learn
 ```
