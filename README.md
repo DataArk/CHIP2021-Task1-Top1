@@ -65,3 +65,8 @@ PS：
   `bash ./predict.sh macbert2-f`
 
   `bash ./predict.sh dialog_chinese-macbert`
+  
+  
+### 备注
+
+由于最近其他事情比较多，暂时还没有修整和注释，后期有时间会重新进行改进并适配到ark-nlp最新版本
